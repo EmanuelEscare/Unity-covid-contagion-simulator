@@ -1,0 +1,13 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Visual Studio Code generated
+[Aa]ssets/Plugins/Editor/VsCode/
+[Ee]xported[Oo]bj/
+*.svd

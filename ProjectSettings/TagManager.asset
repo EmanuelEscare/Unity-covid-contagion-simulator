@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - usuario
+  - covid
+  - menu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - usuario
+  - salon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tabla
+    uniqueID: 3797540649
+    locked: 0
+  - name: salon
+    uniqueID: 1405830417
+    locked: 0
+  - name: usuario
+    uniqueID: 702546787
+    locked: 0
+  - name: borde
+    uniqueID: 2292659643
+    locked: 0
